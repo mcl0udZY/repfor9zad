@@ -3,3 +3,6 @@ C2 edit
 C3 commit
 C4
 C5 edit in new branch
+
+first edit zad 10
+second edit for zad 10
